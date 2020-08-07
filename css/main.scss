@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    height: 100vh;
+    //cursor: url('../images/cursor.png'), auto;
+    background: white
+
+}
+
+.navigator {
+    text-align: left;
+    height: 0vh;
+    list-style-type: none;
+    float: none;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.nav_btn {
+    width: 100px;
+}

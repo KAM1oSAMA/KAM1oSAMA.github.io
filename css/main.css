@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: white;
+}
+
+.navigator {
+  text-align: left;
+  height: 0vh;
+  list-style-type: none;
+  float: none;
+  position: absolute;
+  top: 70%;
+  left: 40%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.nav_btn {
+  width: 100px;
+}
+/*# sourceMappingURL=main.css.map */
